@@ -1,0 +1,7 @@
+{
+"file_name":"train",
+"dataset":"wine-quality",
+ "folder":"mlflow-example",
+ "alpha":0.5,
+ "l1_ratio":0.1
+}
